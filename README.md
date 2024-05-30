@@ -1,5 +1,5 @@
 <p align="center">
-We become what we think about
+W e    b e c o m e     w h a t    w e    t h i n k    a b o u t
 </p>
 <div align="center">
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif" alt="Banner">
