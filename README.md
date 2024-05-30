@@ -41,6 +41,7 @@ Welcome! :earth_americas:
   <img src="https://avatars.githubusercontent.com/u/35138916?s=200&v=4" title="Lighthouse" alt="Lighthouse" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>&nbsp;
 </div>
 
 
