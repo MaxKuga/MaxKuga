@@ -5,7 +5,7 @@
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif" alt="Banner">
 </div>
 
-<h3 align="center">H͢i͢ t͢h͢e͢r͢e͢ 👋M͢y͢ n͢a͢m͢e͢ i͢s͢ Maxim. I͢'m͢ a͢ S͢o͢ft͢w͢a͢r͢e͢ Q͢A͢ A͢u͢t͢o͢m͢a͢t͢i͢o͢n͢ E͢n͢g͢i͢n͢e͢e͢r͢. <img src="[https://giphy.com/embed/l44Qqz6gO6JiVV3pu]" 
+<h3 align="center">H͢i͢ t͢h͢e͢r͢e͢ !!!  M͢y͢ n͢a͢m͢e͢ i͢s͢ Maxim. I͢'m͢ a͢ S͢o͢ft͢w͢a͢r͢e͢ Q͢A͢ A͢u͢t͢o͢m͢a͢t͢i͢o͢n͢ E͢n͢g͢i͢n͢e͢e͢r͢. <img src="[https://giphy.com/embed/l44Qqz6gO6JiVV3pu]" 
 
 <div align="center">
 <a href="https://www.linkedin.com/in/maxim-kugayevskiy/">
