@@ -42,11 +42,6 @@
   <pre><h4>I͢'͢m͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ h͢i͢k͢i͢n͢g͢, g͢y͢m͢, c͢a͢r͢s͢, s͢w͢i͢m͢m͢i͢n͢g͢ p͢o͢o͢l͢</h4></pre>
 </div>
 
-
-<div align="center">
-<img src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?w=1390&crop=1" style="width:300px" alt="Funny Image">
-</div>
-
 <div align="center">
 <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/new-york-and-philadelphia-skylines-mashup-michael-tompsett.jpg" width="900" height="300" alt="City Skyline"/>
 </div>
