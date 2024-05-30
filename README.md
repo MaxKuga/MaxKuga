@@ -14,7 +14,7 @@ Welcome! :earth_americas:
 </div>
 
 <div align="center">
-<pre><h3>L͢a͢n͢g͢u͢a͢g͢e͢s͢ a͢n͢d͢ t͢o͢o͢l͢s͢ I͢ u͢s͢e͢:</h3></pre>
+<pre><h3>L͢a͢n͢g͢u͢a͢g͢e͢s͢ a͢n͢d͢ t͢o͢o͢l͢s͢:</h3></pre>
 </div>
 
 <div align="center">
