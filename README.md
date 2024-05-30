@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
 I don't need much, just the best.
-</p>
+</h2>
 <div align="center">
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif" alt="Banner">
 </div>
