@@ -8,7 +8,7 @@
 <h3 align="center">H͢i͢ t͢h͢e͢r͢e͢ 👋M͢y͢ n͢a͢m͢e͢ i͢s͢ Maxim. I͢'m͢ a͢ S͢o͢ft͢w͢a͢r͢e͢ Q͢A͢ A͢u͢t͢o͢m͢a͢t͢i͢o͢n͢ E͢n͢g͢i͢n͢e͢e͢r͢. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
 
 <div align="center">
-<a href="(https://www.linkedin.com/in/maxim-kugayevskiy/)">
+<a href="https://www.linkedin.com/in/maxim-kugayevskiy/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
