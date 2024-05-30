@@ -38,7 +38,6 @@ Welcome! :earth_americas:
   <img src="https://avatars.githubusercontent.com/u/29794811?s=200&v=4" title="Swagger" alt="Swagger" width="50" height="50"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" title="GTMetrix" alt="GTMetrix" width="50" height="50"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/35138916?s=200&v=4" title="Lighthouse" alt="Lighthouse" width="50" height="50"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/68367155?s=200&v=4" title="SpeedLab" alt="SpeedLab" width="50" height="50"/>&nbsp;
 </div>
 
 
