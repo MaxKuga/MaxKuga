@@ -47,4 +47,4 @@
 </div>
 
 ### Welcome! :earth_americas:
-My name is [Ekaterina](https://www.linkedin.com/in/eoleneva/), I'm a Software QA Automation Engineer from San Diego, CA <
+
