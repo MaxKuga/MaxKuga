@@ -42,6 +42,7 @@ Welcome! :earth_americas:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45"/>&nbsp;
 </div>
 
 
